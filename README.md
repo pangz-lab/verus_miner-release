@@ -9,6 +9,21 @@
 
 ## Release Notes
 
+### v3.0.0
+#### 2023/06/04
+- ✔️ Upgraded the Verus coin miner
+	- Now supports the latest features of Verus - PBaaS and merge mining
+- ✔️ Improved mining performance
+- ✔️ Mining view improvements
+	- updated miner screen layout
+	- stop button now becomes a slider
+	- re-positioned, restyled and resized UI elements
+	- added confirmation before exiting the mining screen
+- ✔️ Minor UI improvements
+- ✔️ Added wallet balance view
+- ✔️ Added new mining pools
+- ✔️ Monitoring server reconnection improvements
+
 ### v2.2.0
 #### 2023/01/21
 - ✔️ Custom non-Verus wallet address can now be used
