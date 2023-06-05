@@ -9,6 +9,14 @@
 
 ## Release Notes
 
+### v3.1.0
+#### 2023/06/05
+- ✔️ Mining view improvements
+	- center mining detail view
+- ✔️ Secured monitoring connection - now using TLS/SSL certificates
+- ✔️ Monitoring server re-connection improvements
+	- improved status send timing(requires VerusBox v3.1.0)
+
 ### v3.0.0
 #### 2023/06/04
 - ✔️ Upgraded the Verus coin miner
