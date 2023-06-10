@@ -9,6 +9,18 @@
 
 ## Release Notes
 
+### v3.3.0
+#### 2023/06/11
+- ✔️ Added speed test feature
+	- mining pool connection speed can now be tested
+	- this is an experimental feature so some issues can be expected
+- ✔️ Mining improvements
+	- miner binary update with hashing optimization
+- ✔️ Minor UI improvements
+	- app and miner version is added at the main mining screen
+- ✔️ Bug fix
+	- pool drop-down default value is set correctly when scanning a setting
+
 ### v3.2.0
 #### 2023/06/07
 - ✔️ Mining improvements
