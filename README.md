@@ -8,6 +8,12 @@
 [![name](https://www.gstatic.com/android/market_images/web/play_prism_hlock_2x.png)](https://play.google.com/store/apps/details?id=com.pangzlab.verus_miner&hl=en&gl=US&pli=1)
 
 ## Release Notes
+### v3.4.0
+#### 2023/06/26
+- ✔️ Improved speed test feature
+	- added retry button for failed connection test
+- ✔️ Added temperature control setting
+- ✔️ Added charge control setting
 
 ### v3.3.0
 #### 2023/06/11
