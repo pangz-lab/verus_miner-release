@@ -1,0 +1,11 @@
+[
+    {"version": "v2.1.1-rc1", "checksum": "53daa0fd5452c0a9e988d342040faa96bf835b7c", "hash": "sha1"},
+    {"version": "v2.2.0", "checksum": "f17ea224e2fbd05cb849d49e39a7d94393905aa5", "hash": "sha1"},
+    {"version": "v3.0.0", "checksum": "85c7cb1a16f895bbfa0de33552846c7604921b7b", "hash": "sha1"},
+    {"version": "v3.1.0", "checksum": "3b90ff8e8e028c6fc9cd74afd4772a4289a34911", "hash": "sha1"},
+    {"version": "v3.2.0", "checksum": "7ca1ee69db25a24827ccc179a21ec5e20a18e917", "hash": "sha1"},
+    {"version": "v3.3.0", "checksum": "a77ade730b1cdd84aea9ff05116673630ffd7ae4", "hash": "sha1"},
+    {"version": "v3.3.0", "checksum": "a77ade730b1cdd84aea9ff05116673630ffd7ae4", "hash": "sha1"},
+    {"version": "v3.4.0", "checksum": "2b0ba48b31cc6a5f9cb024c6f81c11a986854519", "hash": "sha1"},
+    {"version": "v3.4.1", "checksum": "21f10cc0e2abb99df84984b05b6f4d6438cadd18", "hash": "sha1"}
+]
