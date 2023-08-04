@@ -2,10 +2,11 @@
 ![alt text](https://play-lh.googleusercontent.com/dhd3a8IQFlooE2agHBmyazj49hdV8zNT886J-d99SpQ3gof8I-giyf0AIGoNrSWtrO4p=w240-h480-rw)
 
 # VerusMiner Releases
-- The VerusMiner app can be downloaded in playstore for convenience for most android users. Those who don't have google play can get the latest builds directly from this repository. 
+- VerusMiner is not anymore available for download in playstore due to their new policy against mining apps. Use the following official release site instead.
 
 ## Android
-[![name](https://www.gstatic.com/android/market_images/web/play_prism_hlock_2x.png)](https://play.google.com/store/apps/details?id=com.pangzlab.verus_miner&hl=en&gl=US&pli=1)
+<!-- [![name](https://www.gstatic.com/android/market_images/web/play_prism_hlock_2x.png)](https://play.google.com/store/apps/details?id=com.pangzlab.verus_miner&hl=en&gl=US&pli=1) -->
+[![name](https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/android-icon.png)](https://pangz-lab.github.io/verusminer/)
 
 ## Release Notes
 ### v3.4.1
