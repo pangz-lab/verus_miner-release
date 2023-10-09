@@ -9,6 +9,24 @@
 [![name](https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/android-icon.png)](https://pangz-lab.github.io/verusminer/)
 
 ## Release Notes
+### v4.0.1
+#### 2023/10/09
+- ✔️ Added support for online monitoring - official site https://verusmonitor.is-now.live/
+- ✔️ Added new mining pools
+- ✔️ Built with more optimized miner by adding a support for specific CPU models
+	- `gen`  -> generic
+	- `ca35` -> cortex-a35
+	- `ca53` -> cortex-a53
+	- `ca55` -> cortex-a55
+	- `ca57` -> cortex-a57
+	- `ca72` -> cortex-a72
+	- `ca73` -> cortex-a73
+	- `ca75` -> cortex-a75
+	- `exm1` -> exynos-m1
+	- `flkr` -> falkor
+	- `saphira` -> saphira
+	- `tx`		-> thunderx
+
 ### v3.4.1
 #### 2023/06/28
 - ✔️ Fixed setting compatibility(from version 3.3.0)

@@ -5,5 +5,17 @@
     {"name": "v3.2.0", "version": "v3.2.0", "checksum": "7ca1ee69db25a24827ccc179a21ec5e20a18e917", "hash": "sha1"},
     {"name": "v3.3.0", "version": "v3.3.0", "checksum": "a77ade730b1cdd84aea9ff05116673630ffd7ae4", "hash": "sha1"},
     {"name": "v3.4.0", "version": "v3.4.0", "checksum": "2b0ba48b31cc6a5f9cb024c6f81c11a986854519", "hash": "sha1"},
-    {"name": "v3.4.1", "version": "v3.4.1", "checksum": "21f10cc0e2abb99df84984b05b6f4d6438cadd18", "hash": "sha1"}
+    {"name": "v3.4.1", "version": "v3.4.1", "checksum": "21f10cc0e2abb99df84984b05b6f4d6438cadd18", "hash": "sha1"},
+    {"name": "v4.0.1", "version": "v4.0.1/v4.0.1_3.8.3+5[ca35]", "checksum": "5eee5388f9404e04fc8c0c12d2542e5e6b46a680", "hash": "sha1"},
+    {"name": "v4.0.1", "version": "v4.0.1/v4.0.1_3.8.3+5[ca53]", "checksum": "4339db90ef019045ddf2880b48a0a07d016bc8d7", "hash": "sha1"},
+    {"name": "v4.0.1", "version": "v4.0.1/v4.0.1_3.8.3+5[ca55]", "checksum": "d770dd28210cbabd8d633d054137d242510067c2", "hash": "sha1"},
+    {"name": "v4.0.1", "version": "v4.0.1/v4.0.1_3.8.3+5[ca57]", "checksum": "0222dbf2b244fab325a89ee6facfc18072c61e51", "hash": "sha1"},
+    {"name": "v4.0.1", "version": "v4.0.1/v4.0.1_3.8.3+5[ca72]", "checksum": "c757a7ee612d0d04d082115b964a4414c01f6210", "hash": "sha1"},
+    {"name": "v4.0.1", "version": "v4.0.1/v4.0.1_3.8.3+5[ca73]", "checksum": "b952854efdecf634e5f05ff9c63cf79820ac1a26", "hash": "sha1"},
+    {"name": "v4.0.1", "version": "v4.0.1/v4.0.1_3.8.3+5[ca75]", "checksum": "9762e2f24729c10ad0571009261a3a256f759a5d", "hash": "sha1"},
+    {"name": "v4.0.1", "version": "v4.0.1/v4.0.1_3.8.3+5[exm1]", "checksum": "2bb025be69a8537efef7b2c9558efbabadefc5d2", "hash": "sha1"},
+    {"name": "v4.0.1", "version": "v4.0.1/v4.0.1_3.8.3+5[flkr]", "checksum": "e5fe5a10d90731f891964f40bea4a7081a4ef390", "hash": "sha1"},
+    {"name": "v4.0.1", "version": "v4.0.1/v4.0.1_3.8.3+5[saphira]", "checksum": "05dae5d9736a6e33e2705aa1b088a1942ff50476", "hash": "sha1"},
+    {"name": "v4.0.1", "version": "v4.0.1/v4.0.1_3.8.3+5[tx]", "checksum": "fa10ef265342ba9aee32589f3b49696448255a5c", "hash": "sha1"},
+    {"name": "v4.0.1", "version": "v4.0.1/v4.0.1_3.8.3+5[gen]", "checksum": "ad9fe481e0eb278f4c6237f78c55337a33e7d5c4", "hash": "sha1"}
 ]
