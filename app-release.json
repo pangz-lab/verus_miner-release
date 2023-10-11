@@ -17,5 +17,21 @@
     {"name": "v4.0.1", "version": "v4.0.1/v4.0.1_3.8.3+5[flkr]", "checksum": "e5fe5a10d90731f891964f40bea4a7081a4ef390", "hash": "sha1"},
     {"name": "v4.0.1", "version": "v4.0.1/v4.0.1_3.8.3+5[saphira]", "checksum": "05dae5d9736a6e33e2705aa1b088a1942ff50476", "hash": "sha1"},
     {"name": "v4.0.1", "version": "v4.0.1/v4.0.1_3.8.3+5[tx]", "checksum": "fa10ef265342ba9aee32589f3b49696448255a5c", "hash": "sha1"},
-    {"name": "v4.0.1", "version": "v4.0.1/v4.0.1_3.8.3+5[gen]", "checksum": "ad9fe481e0eb278f4c6237f78c55337a33e7d5c4", "hash": "sha1"}
+    {"name": "v4.0.1", "version": "v4.0.1/v4.0.1_3.8.3+5[gen]", "checksum": "ad9fe481e0eb278f4c6237f78c55337a33e7d5c4", "hash": "sha1"},
+    {"name": "v4.2.0", "version": "v4.2.0/v4.2.0_3.8.3+5[ca35]", "checksum": "ce5d697012cf4404f4c2b17d1419625890042674", "hash": "sha1"},
+    {"name": "v4.2.0", "version": "v4.2.0/v4.2.0_3.8.3+5[ca53]", "checksum": "36d4c6bff59d19c514c63df87a5e965e0b940318", "hash": "sha1"},
+    {"name": "v4.2.0", "version": "v4.2.0/v4.2.0_3.8.3+5[ca55]", "checksum": "68842c61cb0bd113089aa2a31e4bbb1a82c65eff", "hash": "sha1"},
+    {"name": "v4.2.0", "version": "v4.2.0/v4.2.0_3.8.3+5[ca57]", "checksum": "07890f5c530a0ff8eeb3d7b45a0b979f2aa3995e", "hash": "sha1"},
+    {"name": "v4.2.0", "version": "v4.2.0/v4.2.0_3.8.3+5[ca72]", "checksum": "656831b3a8646716ce1f56c6fda98d530e32873c", "hash": "sha1"},
+    {"name": "v4.2.0", "version": "v4.2.0/v4.2.0_3.8.3+5[ca73]", "checksum": "c41e2ceaaa10870d25e729c46ec494ec08a22caf", "hash": "sha1"},
+    {"name": "v4.2.0", "version": "v4.2.0/v4.2.0_3.8.3+5[ca75]", "checksum": "c5e41a620982682bd56ecf4407e66103c6678190", "hash": "sha1"},
+    {"name": "v4.2.0", "version": "v4.2.0/v4.2.0_3.8.3+5[exm1]", "checksum": "dfe7b221ece961d8b1709592054b9f41607ced45", "hash": "sha1"},
+    {"name": "v4.2.0", "version": "v4.2.0/v4.2.0_3.8.3+5[flkr]", "checksum": "1aa0c06ad9ac9eeaccb42ad88da81650b6439eac", "hash": "sha1"},
+    {"name": "v4.2.0", "version": "v4.2.0/v4.2.0_3.8.3+5[saphira]", "checksum": "0a37637fc39be40a59771d8ccfbfe1ec48f6a881", "hash": "sha1"},
+    {"name": "v4.2.0", "version": "v4.2.0/v4.2.0_3.8.3+5[tx]", "checksum": "b185deb9b37c1ec1a5baad9587e0ce54a224561a", "hash": "sha1"},
+    {"name": "v4.2.0", "version": "v4.2.0/v4.2.0_3.8.3+5[tx2t99]", "checksum": "9d717acc699111ebfe69f2332180eefb48532bcc", "hash": "sha1"},
+    {"name": "v4.2.0", "version": "v4.2.0/v4.2.0_3.8.3+5[txt81]", "checksum": "2971ec949f73a88daf183cdee7e4bfbf4042a0c7", "hash": "sha1"},
+    {"name": "v4.2.0", "version": "v4.2.0/v4.2.0_3.8.3+5[txt83]", "checksum": "84b6b3cdb3be2edb53fc5a33ccdd1a6bc2ebaa72", "hash": "sha1"},
+    {"name": "v4.2.0", "version": "v4.2.0/v4.2.0_3.8.3+5[txt88]", "checksum": "dc1016975a71ddc8d261f44ceb19982a538030ab", "hash": "sha1"},
+    {"name": "v4.2.0", "version": "v4.2.0/v4.2.0_3.8.3+5[gen]", "checksum": "438fce3bfcbe8d28d0c29838dbea0f80fc1b594d", "hash": "sha1"}
 ]

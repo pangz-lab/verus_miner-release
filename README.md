@@ -9,6 +9,19 @@
 [![name](https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/android-icon.png)](https://pangz-lab.github.io/verusminer/)
 
 ## Release Notes
+### v4.2.0
+#### 2023/10/12
+- ✔️ UI improvements
+	- updated monitoring icons from the miner main screen
+	- added online monitoring link in the main miner view
+- ✔️ Added monitoring selection dialog for setting up the monitoring
+- ✔️ Enabled online monitoring by default
+- ✔️ Added support for other CPU models
+	- `txt81`  -> thunderxt81
+	- `txt88`  -> thunderxt88
+	- `txt83`  -> thunderxt83
+	- `tx2t99` -> thunderx2t99
+
 ### v4.0.1
 #### 2023/10/09
 - ✔️ Added support for online monitoring - official site https://verusmonitor.is-now.live/
