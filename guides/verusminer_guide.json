@@ -1,0 +1,23 @@
+{
+    "apps": {
+        "verusMiner": {
+            "releasedDate": "2024-01-30T12:00:00",
+            "latestVersion": "4.3.0",
+            "changelog": []
+        }
+    },
+    "guides": {
+        "videos": [
+            { "source": "youtube.com", "title":"VerusMonitor", "description":"Enable VerusMiner online monitoring.", "url": "https://youtu.be/FiEPPyZUUtE?si=NHVB9qNj0M7g5ebe", "published": {"by": "Pangz", "date":""}}
+        ],
+        "blogs": [
+            { "source": "medium.com", "title":"VerusMiner - How to mine Verus coin", "description":"How to Easily Start Mining VerusCoin (VRSC) With an Android-Based Smartphone", "url": "https://medium.com/crypto-blog/how-to-easily-start-mining-veruscoin-vrsc-with-an-android-based-smartphone-6640902608ff", "published": {"by": "Bloodys", "date":"2023-10-11T00:00:00"}}
+        ],
+        "posts": [
+            { "source": "medium.com", "title":"VerusMiner - How to mine Verus coin", "description":"How to Easily Start Mining VerusCoin (VRSC) With an Android-Based Smartphone", "url": "https://medium.com/crypto-blog/how-to-easily-start-mining-veruscoin-vrsc-with-an-android-based-smartphone-6640902608ff", "published": {"by": "Bloodys", "date":"2023-10-11T00:00:00"}}
+        ]
+    },
+    "announcements": [
+        { "title": "title", "description": "description", "content":"content", "uri": "uri", "published": {"by": "Bloodys", "date":"2023-10-11T00:00:00"} }
+    ]
+}
