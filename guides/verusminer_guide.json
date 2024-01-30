@@ -8,7 +8,16 @@
     },
     "guides": {
         "videos": [
-            { "source": "youtube.com", "title":"VerusMonitor", "description":"Enable VerusMiner online monitoring.", "url": "https://youtu.be/FiEPPyZUUtE?si=NHVB9qNj0M7g5ebe", "published": {"by": "Pangz", "date":""}}
+            { "source": "youtube.com", "title":"Verus Coin - Internet of value", "description":"Verus Introduction.", "url": "https://youtu.be/jZsgv5rANeM", "published": {"by": "Pangz", "date":""}},
+            { "source": "youtube.com", "title":"Mining Pool Basics", "description":"How mining pool works?", "url": "https://youtu.be/CF5O-revXIE", "published": {"by": "Pangz", "date":""}},
+            { "source": "youtube.com", "title":"VerusMonitor Online Monitor", "description":"Enable VerusMiner online monitoring.", "url": "https://youtu.be/FiEPPyZUUtE?si=NHVB9qNj0M7g5ebe", "published": {"by": "Pangz", "date":""}},
+            { "source": "youtube.com", "title":"VerusBox Offline Monitor", "description":"Enable VerusMiner local monitoring using VerusBox", "url": "https://youtu.be/6_wl6EOyNNk", "published": {"by": "Pangz", "date":""}},
+            { "source": "youtube.com", "title":"[PBC]Create Verus Wallet Address", "description":"How to create a Verus Wallet on your Android Device", "url": "https://youtu.be/T4j6Y6pBq6w?si=cA3s5J290rgAG-Jv", "published": {"by": "Powered By Code", "date":""}},
+            { "source": "youtube.com", "title":"[NEC]VerusBox Offline Monitoring", "description":"Enable VerusMiner local monitoring using VerusBox", "url": "https://youtu.be/8QoUXLetrm0?si=MWQbUTuNhsTsw7SK", "published": {"by": "New England Crypto", "date":""}},
+            { "source": "youtube.com", "title":"[NEC]VerusMiner Mining", "description":"Phone Farm 2023 Update // Cell Phone Miner // VerusBox & VerusMiner Mining Apps", "url": "https://youtu.be/jVQtL74iPnQ?si=MZGcvVVrH5O5jhll", "published": {"by": "New England Crypto", "date":""}},
+            { "source": "youtube.com", "title":"[BC]VerusMiner Mining", "description":"Cellphone Mining is Back!", "url": "https://youtu.be/Gicla6c6zjU?si=zWjYBKu4Z2-SqGBT", "published": {"by": "Brandon Coin", "date":""}},
+            { "source": "youtube.com", "title":"[KC]VerusMiner Mining", "description":"How To Mine On Mobile Devices | Verus Coin | Phone & Tablet Mining | Android Devices |", "url": "https://youtu.be/CYag5y6AuAA?si=kVoTN5tIlH2lbkuw", "published": {"by": "Krebsey Crypto", "date":""}},
+            { "source": "youtube.com", "title":"[RMT]VerusMiner Mining", "description":"How To Mine On Mobile Devices | Verus Coin | Phone & Tablet Mining | Android Devices |", "url": "https://youtu.be/m-Zzi1Hmep4?si=m4zHBCmmky1lkYb8", "published": {"by": "Retro Mike Tech", "date":""}}
         ],
         "blogs": [
             { "source": "medium.com", "title":"VerusMiner - How to mine Verus coin", "description":"How to Easily Start Mining VerusCoin (VRSC) With an Android-Based Smartphone", "url": "https://medium.com/crypto-blog/how-to-easily-start-mining-veruscoin-vrsc-with-an-android-based-smartphone-6640902608ff", "published": {"by": "Bloodys", "date":"2023-10-11T00:00:00"}}
