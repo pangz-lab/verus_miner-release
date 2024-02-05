@@ -43,11 +43,11 @@
     {"name": "v5.0.0", "secondaryName": "v5.0.0_3.8.3+7[ca75]", "version": "v5.0.0/v5.0.0_3.8.3+7[ca75]", "checksum": "420da2af5e9e5677e5252a13c8bce36c8b9886ca", "hash": "sha1"},
     {"name": "v5.0.0", "secondaryName": "v5.0.0_3.8.3+7[exm1]", "version": "v5.0.0/v5.0.0_3.8.3+7[exm1]", "checksum": "ed74bb6eb2ca5125af8aacb6b7a7bbc45e40ffd2", "hash": "sha1"},
     {"name": "v5.0.0", "secondaryName": "v5.0.0_3.8.3+7[flkr]", "version": "v5.0.0/v5.0.0_3.8.3+7[flkr]", "checksum": "0ae9aa3a7e75c44491a2294ad41faaff0a0c304a", "hash": "sha1"},
-    {"name": "v5.0.0", "secondaryName": "v5.0.0_3.8.3+7[gen]", "version": "v5.0.0/v5.0.0_3.8.3+7[gen]", "checksum": "fb40f3423da7889462249072b1690cea85f99d87", "hash": "sha1"},
     {"name": "v5.0.0", "secondaryName": "v5.0.0_3.8.3+7[saphira]", "version": "v5.0.0/v5.0.0_3.8.3+7[saphira]", "checksum": "a6c8116940d447761ebc6af57db8e32bfaa3ffaa", "hash": "sha1"},
     {"name": "v5.0.0", "secondaryName": "v5.0.0_3.8.3+7[tx]", "version": "v5.0.0/v5.0.0_3.8.3+7[tx]", "checksum": "5011892e0b6a0c169c78d7a185fb968474f4f25d", "hash": "sha1"},
     {"name": "v5.0.0", "secondaryName": "v5.0.0_3.8.3+7[tx2t99]", "version": "v5.0.0/v5.0.0_3.8.3+7[tx2t99]", "checksum": "fe322862847d07435b336d80a20af7c9270485ce", "hash": "sha1"},
     {"name": "v5.0.0", "secondaryName": "v5.0.0_3.8.3+7[txt81]", "version": "v5.0.0/v5.0.0_3.8.3+7[txt81]", "checksum": "7152ff30cf3cad4ee37c2d313db36b82afd7ed7b", "hash": "sha1"},
     {"name": "v5.0.0", "secondaryName": "v5.0.0_3.8.3+7[txt83]", "version": "v5.0.0/v5.0.0_3.8.3+7[txt83]", "checksum": "a4a4c5389cb1318ccf07ce5aaa708f68ee480425", "hash": "sha1"},
-    {"name": "v5.0.0", "secondaryName": "v5.0.0_3.8.3+7[txt88]", "version": "v5.0.0/v5.0.0_3.8.3+7[txt88]", "checksum": "10e140427b1b8d05cc50a6abaaac54c724212bb0", "hash": "sha1"}
+    {"name": "v5.0.0", "secondaryName": "v5.0.0_3.8.3+7[txt88]", "version": "v5.0.0/v5.0.0_3.8.3+7[txt88]", "checksum": "10e140427b1b8d05cc50a6abaaac54c724212bb0", "hash": "sha1"},
+    {"name": "v5.0.0", "secondaryName": "v5.0.0_3.8.3+7[gen]", "version": "v5.0.0/v5.0.0_3.8.3+7[gen]", "checksum": "fb40f3423da7889462249072b1690cea85f99d87", "hash": "sha1"}
 ]
