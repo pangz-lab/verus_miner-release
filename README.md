@@ -9,6 +9,28 @@
 [![name](https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/android-icon.png)](https://pangz-lab.github.io/verusminer/)
 
 ## Release Notes
+### v5.0.0
+#### 2024/02/05
+- ✔️ New features
+	- added onboarding
+	- added quickstart guide
+	- added a guide page where you can find helpful videos and blogs
+- ✔️ Better support for foreground process
+	- miner can now run with screen off
+	- added mining status in device notification
+- ✔️ Miner improvements
+	- expect an improved hashrate on some old phone models
+- ✔️ UI fix and improvements
+	- redesigned the miner setting list view screen
+	- improved setting info in mining base screen
+	- updated the messages and layout for home screen
+- ✔️ Added update notifier
+	- when a new version is released, a new page will popup.
+- ✔️ Improved speed test feature UI and behavior
+- ✔️ Added duplicate, set default and qr feature in setting list view
+- ✔️ Updated paddypool mining servers
+- ✔️ Updated web links
+
 ### v4.2.0
 #### 2023/10/12
 - ✔️ UI improvements
