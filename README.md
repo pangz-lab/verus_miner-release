@@ -9,6 +9,80 @@
 [![name](https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/android-icon.png)](https://pangz-lab.github.io/verusminer/)
 
 ## Release Notes
+### v6.0.0
+#### 2026/08/09
+- ✔️ 37 new CPU-specific optimized miner builds
+    - New set of CPU-tuned miner binaries — one optimized build per core type
+    - Identified by short tags such as `ca53`, `ca78`, or `kryo`
+    - Huge performance improvements compared to previous versions
+    - Full list of supported builds: `gen`, `ca34`, `ca35`, `ca53`, `ca55`, `ca57`, `ca65`, `ca65ae`, `ca72`, `ca73`, `ca75`, `ca76`, `ca76ae`, `ca77`, `ca78`, `ca78c`, `ca78ae`, `ca510`, `ca520`, `ca710`, `ca715`, `ca720`, `ca725`, `cr82`, `cx1`, `cx1c`, `cx2`, `cx3`, `cx4`, `cx925`, `nve1`, `nvn1`, `nvn2`, `nvn3`, `nvv1`, `nvv2`, `nvv3`, `thunderx`, `thunderx2t99`, `tsv110`, `apa7`, `apa10`, `apa14`, `apm1`, `ampere1`, `ampere1a`, `a64fx`, `kryo`, `exm3`, `exm4`, `exm5`, `falkor`, `saphira`
+    - Unknown CPUs fall back to `gen`
+
+- ✔️ Build recommendation (new)
+    - No more guessing which binary fits your phone
+    - Open Device Info → Detect CPU topology to get the best recommendation
+    - App maps CPU parts to short tags and suggests the best build
+    - Compare candidates fairly by running each for a similar duration
+
+- ✔️ Optimized mining (Mining power)
+    - **Balanced** — everyday mining with about half your cores
+    - **Performance** — prefers faster cores for higher hashrate when plugged in and cooled
+    - **Cooler** — fewer cores for cooler operation and longer battery life (great overnight)
+    - **Custom** — full manual control of threads and pause limits
+    - Comfort pauses: auto-pause on high temperature or low battery, then resume after cooldown
+
+- ✔️ Overnight connection & network tips
+    - **Battery unrestricted / don't optimize VerusMiner** — prevents Android from killing the miner
+    - **Wi‑Fi stays on when screen is off** — or use solid mobile data
+    - Turn off aggressive power saving modes
+    - Check OEM battery savers, auto-kill / sleep apps, and game/boost modes
+    - Prefer stable 2.4 GHz or wired-router Wi‑Fi near the device
+    - Do not swipe VerusMiner away from Recents while mining
+    - Use temperature and battery pause limits for clean pauses instead of hard disconnects
+    - Tip: plug in for multi-hour runs, pick Cooler or Balanced, and leave space for airflow
+
+- ✔️ History and graphs
+    - Session history with ranges (1h to 30d)
+    - Live charts while mining: hashrate, temperature, shares, difficulty
+    - Last session graphs available even when mining stops
+    - History and miner settings saved with complete graphs for performance comparison
+
+- ✔️ Smoother mining UX
+    - Clearer home and bottom navigation
+    - Easier-to-read metrics (accepted/hour, etc.)
+    - Notice if app was force-closed while mining
+    - Refreshed onboarding and Quickstart for first-time setup
+    - Improved mining screen UI with additional stats (acceptance rate per hour, realtime pool accepted hashrate)
+    - Warning added for using default Verus Coin Foundation wallet address
+
+- ✔️ Custom Mining Pool / Stratum
+    - Creation of custom stratum is now supported
+    - Add custom stratum pool that appears in stratum selection when creating miner setting
+
+- ✔️ Look and language
+    - Multiple themes (including community styles)
+    - More languages via refreshable language packs
+
+- ✔️ Speed test and Network debug
+    - Refined speed test feature — fastest pinged pool goes to the top first
+    - Network debug feature added to check network status during mining
+
+- ✔️ VerusBox Compatibility
+    - Still compatible, especially local monitoring and remote control feature
+    - New VerusBox version release coming soon
+
+- ✔️ Online Monitoring is back
+    - MyVerusMiners — successor of VersuMonitor web app
+    - Automatically connects to MyVerusMiners to view miners while away
+    - Access at https://my-verusminers.pangz.space/ or from the app
+    - Always free to use
+
+- ✔️ Tips after updating
+    - Open Device Info → detect CPU topology (stop mining first)
+    - Install suggested short-tag build (e.g. `ca78`) from GitHub if upgrade recommended
+    - Try Mining power: Balanced daily, Performance when plugged in, Cooler overnight
+    - Open Keep mining connected and finish battery + Wi‑Fi items for each phone
+    - Refresh languages/themes for latest remote packs
 ### v5.0.0
 #### 2024/02/05
 - ✔️ New features
